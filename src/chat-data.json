@@ -1,0 +1,43 @@
+{
+  "error": "Disculpa! No te entendí",
+  "chau": "Adiós...",
+  "hola": "¡Hola! Soy un chatbot de turismo. ¿En qué puedo ayudarte?",
+  "destino": {
+    "prompt": "¿A dónde te gustaría ir?",
+    "options": ["Playa", "Montaña", "Ciudad"]
+  },
+  "playa": {
+    "prompt": "¿Qué tipo de actividades te gustaría hacer en la playa?",
+    "options": ["Surf", "Buceo", "Relajarme en la playa"]
+  },
+  "montaña": {
+    "prompt": "¿Qué tipo de actividades te gustaría hacer en la montaña?",
+    "options": ["Senderismo", "Esquí", "Relajarme en la cabaña"]
+  },
+  "ciudad": {
+    "prompt": "¿Qué tipo de actividades te gustaría hacer en la ciudad?",
+    "options": [
+      "Visitar museos",
+      "Ir de compras",
+      "Disfrutar de la gastronomía local"
+    ]
+  },
+  "transporte": {
+    "prompt": "¿Cómo te gustaría llegar a tu destino?",
+    "options": ["En avión", "En coche", "En tren"]
+  },
+  "alojamiento": {
+    "prompt": "¿Qué tipo de alojamiento prefieres?",
+    "options": ["Hotel", "Apartamento", "Camping"]
+  },
+  "presupuesto": {
+    "prompt": "¿Cuál es tu presupuesto?",
+    "options": ["Económico", "Moderado", "Lujoso"]
+  },
+  "duracion": {
+    "prompt": "¿Cuántos días tienes disponibles para tu viaje?",
+    "options": ["3-5 días", "1 semana", "2 semanas o más"]
+  },
+  "idioma": "¿Hablas algún otro idioma además del español?",
+  "recomendacion": "Te recomendamos visitar"
+}
